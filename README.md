@@ -3,7 +3,7 @@
 
 ##
 
-<div>
+<div align="center">
 <a href="https://github.com/Alexandre-Paulo-Silva"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Paulo-Silva&show_icons=true&theme=dark&include_all_commits=true&       count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Paulo-Silva&layout=compact&langs_count=7&theme=dark"/>
@@ -11,10 +11,12 @@
  
  ##
  
+<div align="center">
+<img align="center" alt="Rafa-Js" height="50" width="120" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/skills.gif">
+</div>
+ 
 <div align="center" style="display: inline_block"><br>
 
-
-<img align="left" alt="Rafa-Js" height="50" width="120" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/skills.gif">
 <img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/html.gif">
 <img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/css.gif">
 <img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/javascript.gif">
