@@ -1,7 +1,11 @@
-### Olá! Eu so Alexandre Paulo da Silva 
+
+
+### Olá! Eu sou Alexandre Paulo da Silva<img align="center" alt="Rafa-Js" height="60" width="90" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="Rafa-Js" height="50" width="90" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif"> 
+
+
 
  <div>
-  <a href="https://github.com/Alexandre-Paulo-Silva">
+  <a href="https://github.com/Alexandre-Paulo-Silva"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Paulo-Silva&show_icons=true&theme=dark&include_all_commits=true&       count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Paulo-Silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
