@@ -1,8 +1,5 @@
 
-
-### Olá! Eu sou Alexandre Paulo da Silva<img align="center" alt="Rafa-Js" height="60" width="90" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="Rafa-Js" height="50" width="90" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif"> 
-
-
+<img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif"> Olá! Eu sou Alexandre Silva
 
  <div>
   <a href="https://github.com/Alexandre-Paulo-Silva"> 
