@@ -1,5 +1,5 @@
 
-<img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif"> Olá! Eu sou Alexandre Silva <img align="right" alt="Rafa-Js" height="40" width="50" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"><img align="right" alt="Rafa-Js" height="40" width="50" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif"><img align="right" alt="Rafa-Js" height="40" width="50" src="https://media.giphy.com/media/jj1nSei4YucbDfcPxt/giphy.gif">
+<img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif"> Olá! Eu sou Alexandre Silva <img align="right" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/linkedin.gif"><img align="right" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/facebook.gif"><img align="right" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/whattsapp.gif">
 
  <div>
   <a href="https://github.com/Alexandre-Paulo-Silva"> 
@@ -7,16 +7,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Paulo-Silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Rafa-Js" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-Ts" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rafa-React" height="30" width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Rafa-HTML" height="30" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="90" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<div align="center" style="display: inline_block"><br>
+
+<img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/html.gif">
+<img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/css.gif">
+<img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/javascript.gif">
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/node.gif">
+<img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/php.gif">
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/python.gif">
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/angular.gif">
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/bootstrap.gif">
+
+
  </div>
   
   ##
