@@ -1,6 +1,5 @@
 
-<img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif"> Olá! Eu sou Alexandre Silva <img align="right" alt="Rafa-Js" height="40" width="50" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"> <img align="right" alt="Rafa-Js" height="40" width="50" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-
+<img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif"> Olá! Eu sou Alexandre Silva <img align="right" alt="Rafa-Js" height="40" width="50" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"><img align="right" alt="Rafa-Js" height="40" width="50" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif"><img align="right" alt="Rafa-Js" height="40" width="50" src="https://media.giphy.com/media/jj1nSei4YucbDfcPxt/giphy.gif">
 
  <div>
   <a href="https://github.com/Alexandre-Paulo-Silva"> 
