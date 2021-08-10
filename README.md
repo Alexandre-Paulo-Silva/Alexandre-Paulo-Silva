@@ -19,5 +19,7 @@
   
   ##
  
+  ![Snake animation](https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/cobra.svg)
+ 
 <div> 
 
