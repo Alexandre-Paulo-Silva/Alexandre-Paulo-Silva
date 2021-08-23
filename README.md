@@ -1,5 +1,5 @@
 
-<img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif">Ola! Eu sou Alexandre Silva<img align="right" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/linkedin.gif"><img align="right" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/facebook.gif"><img align="right" alt="Rafa-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/whattsapp.gif">
+<img align="center" alt="ale-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/beaming_face_with_smiling_eyes_256_2.gif"><img align="center" alt="ale-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/thumbs_up_sign_256_1.gif">Ola! Eu sou Alexandre Silva <a href="https://www.google.com" target="_blank"><img align="right" alt="ale-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/linkedin.gif"></a><img align="right" alt="ale-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/facebook.gif"><img align="right" alt="ale-Js" height="40" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/whattsapp.gif">
 
 ##
 
@@ -12,19 +12,19 @@
  ##
  
 <div align="center">
-<img align="center" alt="Rafa-Js" height="50" width="120" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/skills.gif">
+<img align="center" alt="ale-Js" height="50" width="120" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/skills.gif">
 </div>
  
 <div align="center" style="display: inline_block"><br>
 
-<img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/html.gif">
-<img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/css.gif">
-<img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/javascript.gif">
-<img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/node.gif">
-<img align="center" alt="Rafa-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/php.gif">
-<img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/python.gif">
-<img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/angular.gif">
-<img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/bootstrap.gif">
+<img align="center" alt="ale-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/html.gif">
+<img align="center" alt="ale-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/css.gif">
+<img align="center" alt="ale-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/javascript.gif">
+<img align="center" alt="ale-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/node.gif">
+<img align="center" alt="ale-Js" height="50" width="70" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/php.gif">
+<img align="center" alt="ale-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/python.gif">
+<img align="center" alt="ale-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/angular.gif">
+<img align="center" alt="ale-Js" height="50" width="50" src="https://github.com/Alexandre-Paulo-Silva/Alexandre-Paulo-Silva/blob/main/bootstrap.gif">
 
 </div>
  
